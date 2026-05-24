@@ -96,6 +96,6 @@ The project includes:
 
 ---
 
-## 👤 Author
+##  Author
 
 Data analysis project built for learning and portfolio development.
